@@ -11,6 +11,9 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 
 public class UITest {
 
+	/**
+	 * Test using firefox
+	 */
 	@Test
 	public void test_firefox() {
 		System.setProperty("webdriver.gecko.driver", "C:\\temp\\geckodriver.exe");
@@ -19,6 +22,10 @@ public class UITest {
 		assertEquals(driver.getTitle(), "Apple");
 		driver.close();
 	}
+	
+	/**
+	 * Test using chrome browser
+	 */
 
 	@Test
 	public void test_chrome() {
