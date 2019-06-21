@@ -18,6 +18,6 @@ Set up Instructions:
 
 6/ mvn test
 
-7/ mvn surefire-report:report-only
+7/ mvn surefire-report:report-only (To generate html test report)
 
 8/ mvn site -DgenerateReports=false
