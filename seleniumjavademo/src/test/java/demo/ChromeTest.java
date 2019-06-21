@@ -15,6 +15,11 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+/**
+ * Selenium - Java :UI Test
+ * @author SP
+ *
+ */
 public class ChromeTest {
 
 	private WebDriver driver;
