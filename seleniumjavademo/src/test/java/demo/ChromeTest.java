@@ -17,7 +17,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 /**
  * Selenium - Java :UI Test
- * @author SP
+ * @author Praveen Haridas
  *
  */
 public class ChromeTest {
