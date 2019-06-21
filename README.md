@@ -20,4 +20,4 @@ Set up Instructions:
 
 7/ mvn surefire-report:report-only (To generate html test report)
 
-8/ mvn site -DgenerateReports=false
+8/ mvn site -DgenerateReports=false (To include css and image so it will be complete report)
