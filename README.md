@@ -1,4 +1,4 @@
-# seleniumjavademo
+# seleniumjava-Junit-demo
 
 This project uses selenium-java and junit. checkout the project for a quick demo 
 to understand how to interact with application under test using Selenium WebDriver
